@@ -19,8 +19,7 @@
  *
 */
 
-namespace pocketmine\level;
-
+namespace pocketmine\level\light;
 
 class SkyLightUpdate extends LightUpdate{
 

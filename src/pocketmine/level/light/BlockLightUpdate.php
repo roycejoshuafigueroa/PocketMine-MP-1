@@ -19,8 +19,7 @@
  *
 */
 
-namespace pocketmine\level;
-
+namespace pocketmine\level\light;
 
 class BlockLightUpdate extends LightUpdate{
 
